@@ -1,7 +1,7 @@
 ### Olá, eu sou o Akiyuki e sou um aspirante a Dev. Full-Stack😼
 
-- 📌 Conhecimentos em Html, Css, JavaScript, Python;
-- 🛠️ Conhecimentos futuros: Angular, React, VueJs, Node.Js, Mongodb, MySql, Sass e Scss, Bootstrap;
+- 📌 Conhecimentos em Html, Css, JavaScript, Python, Node.js;
+- 🛠️ Conhecimentos futuros: Angular, React, VueJs, Mongodb, MySql, Sass e Scss, Bootstrap;
 - 📧 Pode entrar em contato comigo via e-mail: akiyuki090@gmail.com;
 
 <div align="center">
@@ -14,6 +14,8 @@
   <img align="center" alt="Akiyuki-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Akiyuki-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Akiyuki-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Akiyuki-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
 </div>
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
