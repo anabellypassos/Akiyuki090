@@ -1,6 +1,6 @@
 ### Olá, eu sou o Akiyuki e sou um aspirante a Dev. Full-Stack😼
 
-- 📌 Conhecimentos em Html, Css, JavaScript, Python, Node.js;
+- 📌 Conhecimentos em: Html, Css, JavaScript, Python, Node.js;
 - 🛠️ Conhecimentos futuros: Angular, React, VueJs, Mongodb, MySql, Sass e Scss, Bootstrap;
 - 📧 Pode entrar em contato comigo via e-mail: akiyuki090@gmail.com;
 
