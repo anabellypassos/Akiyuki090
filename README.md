@@ -1,15 +1,21 @@
-### Olá, eu sou o Akiyuki e sou um aspirante a Dev. Full-Stack😼
+<div align = "center">
+Olá, eu sou o Akiyuki e sou um aspirante a Dev. Full-Stack😼
+</div>
 
-- 📌 Conhecimentos em: Html, Css, JavaScript, Python, Node.js e PHP;
-- 🛠️ Conhecimentos futuros: Angular, React, VueJs, Mongodb, MySql, Laravel e Bootstrap;
-- 📧 Pode entrar em contato comigo via e-mail: akiyuki090@gmail.com;
+<div align = "justify">
+<br>
+- 📌 Conhecimentos em: Html, Css, JavaScript, Python, Node.js e PHP; </br>
+- 🛠️ Conhecimentos futuros: Angular, React, VueJs, Mongodb, MySql, Laravel e Bootstrap; </br>
+- 📧 Pode entrar em contato comigo via e-mail: akiyuki090@gmail.com; </br>
+<br>
+</div>
 
 <div align="center">
   <a href='https://github.com/Akiyuki090'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akiyuki090&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akiyuki090&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
+<div align = "center" style="display: inline_block"><br>
   <img align="center" alt="Akiyuki-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Akiyuki-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Akiyuki-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -21,7 +27,7 @@
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-<div> 
+<div align = "center"> 
   <a href="https://www.instagram.com/akiyuki.016/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:akiyuki090@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
   <a href="https://www.linkedin.com/in/akiyuki-miyama-1329281b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
