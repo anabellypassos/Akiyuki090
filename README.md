@@ -2,7 +2,7 @@
 Olá, eu sou o Akiyuki e sou um aspirante a Dev. Full-Stack😼
 </div>
 
-<div align = "justify">
+<div align = "center">
 <br>
 - 📌 Conhecimentos em: Html, Css, JavaScript, Python, Node.js e PHP; </br>
 - 🛠️ Conhecimentos futuros: Angular, React, VueJs, Mongodb, MySql, Laravel e Bootstrap; </br>
