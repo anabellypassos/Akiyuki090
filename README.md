@@ -1,14 +1,5 @@
 ## Olá, eu sou o Akiyuki e sou um aspirante a Dev. Full-Stack😼
 
-
-<div aling = 'justify'>
-<br>
-- 📌 Conhecimentos em: Html, Css, JavaScript, Python, Node.js e PHP; </br>
-- 🛠️ Conhecimentos futuros: Angular, React, VueJs, Mongodb, MySql, Laravel e Bootstrap; </br>
-- 📧 Pode entrar em contato comigo via e-mail: akiyuki090@gmail.com; </br>
-<br>
-</div>
-
 <div align = 'center' >
   <a href='https://github.com/Akiyuki090'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akiyuki090&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -26,7 +17,7 @@
  
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
- <div align = 'center'
+ <div align = 'center'>
   <a href="https://www.instagram.com/akiyuki.016/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:akiyuki090@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
   <a href="https://www.linkedin.com/in/akiyuki-miyama-1329281b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
