@@ -1,6 +1,5 @@
-<div align = "center">
-Olá, eu sou o Akiyuki e sou um aspirante a Dev. Full-Stack😼
-</div>
+## Olá, eu sou o Akiyuki e sou um aspirante a Dev. Full-Stack😼
+
 
 <div aling = 'justify'>
 <br>
