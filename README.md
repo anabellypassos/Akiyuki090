@@ -8,7 +8,7 @@ Olá, eu sou o Akiyuki e sou um aspirante a Dev. Full-Stack😼
 - 🛠️ Conhecimentos futuros: Angular, React, VueJs, Mongodb, MySql, Laravel e Bootstrap; </br>
 - 📧 Pode entrar em contato comigo via e-mail: akiyuki090@gmail.com; </br>
 <br>
-</div:
+</div>
 
 <div align = 'center' >
   <a href='https://github.com/Akiyuki090'>
