@@ -1,5 +1,4 @@
-## Olá, eu sou o Akiyuki e sou um aspirante a Dev. Full-Stack😼
-
+<h1 align="center"> Olá, eu sou o Akiyuki e sou um aspirante a Dev. Full-Stack😼</h1>
 <div align="center">
   <a href="https://github.com/Akiyuki090">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Akiyuki090&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
