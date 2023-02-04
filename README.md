@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson+Text&center=true&vcenter=true&pause=1000&size=35&color=E46DB3&width=1000&lines=print(%22+Ol%C3%A1+eu+sou+o+Akiyuki+%22);console.log(%22+Welcome+to+my+World+%22);SELECT+Estagi%C3%A1rio+FROM+Brid_Solucoes;echo+%22Obrigado+pela+visita+!!!+%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson+Text&center=true&vcenter=true&pause=1000&size=35&color=E46DB3&width=1000&lines=print(%22+Ol%C3%A1+eu+sou+o+Akiyuki+%22);console.log(%22+Welcome+to+my+World+%22);SELECT+Analista_de_Dados+FROM+Brid_Solucoes;echo+%22Obrigado+pela+visita+!!!+%22)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Akiyuki090">
